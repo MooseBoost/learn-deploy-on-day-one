@@ -165,6 +165,14 @@ a:visited {
   background-image: url("../assets/img/diane-vu.jpg");
 }
 
+#nathaniel-miller-cover {
+  background-image: url("../assets/img/nathaniel-miller-cover.jpg");
+}
+
+#nathaniel-miller-card {
+  background-image: url("../assets/img/nathaniel-miller.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
